@@ -9,6 +9,14 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.hospital.management</groupId>
+            <artifactId>domain</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
     <artifactId>repository</artifactId>
     <packaging>jar</packaging>
 
